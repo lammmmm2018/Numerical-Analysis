@@ -253,8 +253,8 @@ if __name__ == '__main__':
         return x ** 3 - x - 1
 
 
-    newton(g, 1.5, 0.000001)
-    binary(f, 1, 1.5, 0.005)
+    newton(g, 1.5, 0.000001) #0.00001为误差限
+    binary(f, 1, 1.5, 0.005) 
 
     #解方程
     print solve_equation('1 2 3; 12 5 6; 7 8 9', '3 2 7')
