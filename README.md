@@ -1,9 +1,9 @@
 Some Numerical Analysis Algorithm
 
-环境：python2.7
+环境：python2.7  
 依赖包：numpy, scipy, sympy
 
-具体怎么用看最下面的样例代码（改也是那里改就好了）就行，关于矩阵性质的具体实现可以看property函数。
+具体怎么用看py文件的最下面的样例代码（改也是那里改就好了）就行，关于矩阵性质的具体实现可以看property函数。
 
 三个功能
 * 解方程
