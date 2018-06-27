@@ -3,7 +3,7 @@ import numpy as np
 import scipy.linalg
 import math
 import sympy
-
+//haha
 '''
     @property
     def spectral_radius(self):
